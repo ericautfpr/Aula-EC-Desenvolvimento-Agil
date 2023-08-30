@@ -1,1 +1,3 @@
 Descrição Requisitos Funcionais
+
+RF1 - O usuário deve ser capaz de criar uma nova conta.
